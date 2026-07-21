@@ -120,15 +120,20 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhiA0821&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhiA0821&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiA0821&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=AbhiA0821&theme=tokyonight&hide_border=true" />
 </p>
 
 <br>
 
-<h2 align="center">👾 GitHub Activity</h2>
+<h2 align="center">🌍 3D Contribution Calendar</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AbhiA0821/AbhiA0821/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph"/>
+  <img width="100%" src="https://raw.githubusercontent.com/AbhiA0821/AbhiA0821/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar"/>
 </p>
 
 ---
