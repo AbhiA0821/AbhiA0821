@@ -130,10 +130,6 @@
 
 <br>
 
-<h2 align="center">🌍 3D Contribution Calendar</h2>
 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/AbhiA0821/AbhiA0821/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar"/>
-</p>
 
 ---
