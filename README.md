@@ -35,19 +35,51 @@
 
 <br>
 
-<h2 align="center">⚡ Quick Facts</h2>
+<h2 align="center">🚀 Professional Snapshot</h2>
+<h2 align="center">🚀 Professional Snapshot</h2>
 
-<div align="center">
+<table align="center">
 
-| **Category** | **Details** |
-|:------------:|:------------|
-| 🎓 **Education** | B.Tech in Artificial Intelligence & Data Science |
-| 💼 **Interests** | AI Engineering • Data Engineering • Machine Learning |
-| 🎯 **Career Goal** | AI Engineer / Data Engineer |
-| 📍 **Location** | Maharashtra, India 🇮🇳 |
+<tr>
+<td><b>🎓 Education</b></td>
+<td>B.Tech in Artificial Intelligence & Data Science</td>
+</tr>
 
-</div>
+<tr>
+<td><b>💼 Career Goal</b></td>
+<td>AI Engineer | Machine Learning Engineer | Data Engineer</td>
+</tr>
 
+<tr>
+<td><b>🧠 Main Skills</b></td>
+<td>
+Python • Machine Learning • Deep Learning • Generative AI • LLMs • PySpark • SQL • Data Engineering
+</td>
+</tr>
+
+<tr>
+<td><b>🌱 Currently Learning</b></td>
+<td>
+Apache Airflow • DuckDB • RAG Systems • AI Agents
+</td>
+</tr>
+
+<tr>
+<td><b>📍 Location</b></td>
+<td>Maharashtra, India 🇮🇳</td>
+</tr>
+
+<tr>
+<td><b>🤝 Open To</b></td>
+<td>
+AI Engineer • ML Engineer • Data Engineer Internships & Opportunities
+</td>
+</tr>
+
+</table>
+
+
+</table>
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
