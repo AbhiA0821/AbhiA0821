@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,25&text=Abhishek%20Ainapure&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Data%20Engineering&descAlignY=58&descSize=22"/>
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm <span style="color:#58A6FF;">Abhishek Ainapure</span>
@@ -103,8 +107,6 @@
 
 </div>
 
----
-
 ---------------------
 <h2 align="center">📊 GitHub Analytics</h2>
 
@@ -124,6 +126,74 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/AbhiA0821/AbhiA0821/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+
+
+-------------
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+A selection of projects showcasing my work in <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Data Engineering</b>.
+</p>
+
+<br>
+
+<table>
+<tr>
+<td width="100%">
+
+## 🏥 MedIntel – AI Healthcare Data Pipeline <i>(Ongoing)</i>
+
+AI-powered healthcare data pipeline designed to process patient vital signs, perform intelligent analytics, and build scalable healthcare workflows using modern data engineering technologies.
+
+### ⚙️ Technologies
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black"/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+</p>
+
+<a href="https://github.com/AbhiA0821/MedIntel">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="100%">
+
+## 📄 ResumeAI – Smart Resume Matcher
+
+Machine Learning application that intelligently compares resumes with job descriptions and provides compatibility scores through an interactive web interface.
+
+### ⚙️ Technologies
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0FA958?style=flat-square"/>
+</p>
+
+<a href="https://github.com/AbhiA0821/Resume-Matcher">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
 
 
 -------
