@@ -36,7 +36,6 @@
 <br>
 
 <h2 align="center">🚀 Professional Snapshot</h2>
-<h2 align="center">🚀 Professional Snapshot</h2>
 
 <table align="center">
 
